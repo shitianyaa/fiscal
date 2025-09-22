@@ -23,5 +23,8 @@
 - 铁路公路数据时间显示异常
 - 部分字体重影
 - 部分数据计算错误
+
   优化了文件处理逻辑，现在下载完文件，并安装好必要的库（pandas、streamlit、matplotlib、numpy等）后，在代码文件所在位置运行终端并输入 streamlit run railway_road_analysis.py
   可以选择要上传分析的文件，不用对源代码进行更改
+
+#9.23修复终端重复提示"findfont: Font family 'WenQuanYi Micro Hei' not found.  findfont: Font family 'Heiti TC' not found."的问题
