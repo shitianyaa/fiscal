@@ -16,4 +16,4 @@
    - 1.确保安装了所有必要的库（pandas、streamlit、matplotlib、numpy等）
   - 2.导航到保存文件的目录
   - 3.运行命令： streamlit run railway_road_app.py
-这样，Streamlit应用会启动，并默认使用相同的8501端口，可在自己的浏览器中访问 http://localhost:8501访问
+这样，Streamlit应用会启动，并默认使用相同的8501端口，可在自己的浏览器中访问 http://localhost:8501
