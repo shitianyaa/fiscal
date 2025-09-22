@@ -2,7 +2,7 @@
 
 #~~9.20日不小心把大一的python代码上传了进去，不知道怎么删~~
 
-#9.22上传周二所用到的代码，其中
+#9.22上传第二周作业所用到的代码，其中
   - ailway_road_app.py - 包含完整的铁路公路运货量对比分析Streamlit应用
   - check_excel_structure.py - 用于检查Excel文件结构的脚本
   - railway_road_analysis.py - 基本的数据读取和分析脚本
