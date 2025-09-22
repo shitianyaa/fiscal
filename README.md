@@ -18,3 +18,10 @@
   - 2.导航到保存文件的目录
   - 3.运行命令： streamlit run railway_road_app.py
   这样，Streamlit应用会启动，并默认使用相同的8501端口，可在自己的浏览器中访问 http://localhost:8501
+
+##9.22修复了以下问题
+- 铁路公路数据时间显示异常
+- 部分字体重影
+- 部分数据计算错误
+  优化了文件处理逻辑，现在下载完文件，并安装好必要的库（pandas、streamlit、matplotlib、numpy等）后，在代码文件所在位置运行终端并输入 streamlit run railway_road_analysis.py
+  可以选择要上传分析的文件，不用对源代码进行更改
